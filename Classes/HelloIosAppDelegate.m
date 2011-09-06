@@ -96,7 +96,7 @@
 //	Zustandsübergangsmethode; wird kurz vor Beendigung der App aufgerufen. Jedoch nicht wenn die Anwendung im Zustand SUSPENDED ist.
 - (void)applicationWillTerminate:(UIApplication *)application {
 }
-  
+
 
 #pragma mark UserDefaults
 //	Methode zum Laden der Benutzer-Einstellungen aus der UserDefaults-Datenbank.
